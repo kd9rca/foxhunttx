@@ -16,6 +16,9 @@ This was based off code and ideas from VE6BTC and WT4Y and Byonics' microfox lin
 First got the idea from youtube video: https://www.youtube.com/watch?v=e4b0fNvXA10
 
 I'll add a schematic soon, but the neccasary info is commented in the sketch.
+I'll also try to make a demo video. Stay tuned.
+
+For now you can ignore both of the .hex files and notes.txt. Nothing useful in them.
 
 For questions, comments, or help, my email is on my QRZ.com page.
 73
