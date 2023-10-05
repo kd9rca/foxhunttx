@@ -1,6 +1,6 @@
 # foxhunttx
 
-Here's my version of an arduino based fox hunt controller.
+Here's my version of an arduino based fox hunt controller. I've been running it on a knockoff arduino nano with a basic 5v relay for ptt and a hacked up baofeng earpiece for the radio connection. Haven't yet tested it for range or runtime. Using a UV-5R for the transmitter.
 
 As of now, the included featues are (in no particular order):
 	1- DTMF commands
@@ -14,6 +14,8 @@ I'll add it eventually too.
 
 This was based off code and ideas from VE6BTC and WT4Y and Byonics' microfox line.
 First got the idea from youtube video: https://www.youtube.com/watch?v=e4b0fNvXA10
+
+The DTMF library I used is included in the folder.
 
 I'll add a schematic soon, but the neccasary info is commented in the sketch.
 I'll also try to make a demo video. Stay tuned.
