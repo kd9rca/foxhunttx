@@ -9,6 +9,9 @@ As of now, the included featues are (in no particular order):
 4- Customizable speeds and times
 5- Customizable tone pattern
 
+I also have a couple different iterations, one of which includes a way to change the morse code message via a jumper on the arduino.
+I'll add it eventually too.
+
 This was based off code and ideas from VE6BTC and WT4Y and Byonics' microfox line.
 First got the idea from youtube video: https://www.youtube.com/watch?v=e4b0fNvXA10
 
